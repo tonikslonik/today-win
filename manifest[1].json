@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Today Wins",
+  "short_name": "Today Wins",
+  "description": "A simple personal planner for tasks, habits, and goals.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#070907",
+  "theme_color": "#070907",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
